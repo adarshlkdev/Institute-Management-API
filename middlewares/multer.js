@@ -3,7 +3,6 @@ import multer from "multer";
 import path from "path";
 import cloudinary from "../config/cloudinary.js";
 
-// Multer configuration with Cloudinary storage
 const storage = new CloudinaryStorage({
   cloudinary: cloudinary,
   params: {
