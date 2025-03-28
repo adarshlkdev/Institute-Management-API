@@ -7,7 +7,7 @@ The Institute Management System is a web application designed to manage various 
 - **Student Management**: Add, update, delete, and view student details.
 - **Course Management**: Manage course information and enroll students in courses.
 - **Fee Management**: Track and manage fee payments for students.
-- **Authentication and Authorization**: Secure access to the system with user authentication and role-based authorization.
+- **Authentication and Authorization**: Secure access to the system with user authentication and role-based authorization using JWT.
 
 ## Installation
 
