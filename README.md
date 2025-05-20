@@ -1,4 +1,4 @@
-# Institute Management System
+# Institute Management System (Backend)
 
 The Institute Management System is a web application designed to manage various aspects of an educational institute, including student information, course management, and fee tracking.
 
