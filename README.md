@@ -66,7 +66,7 @@ The Institute Management System is a web application designed to manage various 
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB
 - **Authentication**: JWT (JSON Web Tokens)
-- **File Upload**: Cloudinary
+- **File Upload**: Cloudinary, Multer
 - **Other**: Mongoose, dotenv
 
 ## Contributing
